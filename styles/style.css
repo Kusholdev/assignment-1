@@ -184,3 +184,31 @@ main{
     border-style: none;
 
 }
+/* section-3-Yonus part */
+.description-2{
+    font-weight: 400px;
+    font-size: 16px;
+    color: #0E0E0E;
+    margin-bottom: 0px;
+    margin-top: 20px;
+
+}
+.name{
+    font-weight: 600px;
+    font-size: 20px;
+}
+.description-3{
+    margin-bottom: 0 0;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #0E0E0E;;
+}
+.description{
+    background-color: whitesmoke;
+    border-radius: 8px;
+    padding: 30px;
+    margin-bottom:50px;
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+background-position-x:15px;
+}
