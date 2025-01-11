@@ -95,6 +95,8 @@ main{
 }
 .section-title-1{
     margin-bottom: 25px;
+    font-weight: bold;
+    font-size: 40px;
 }
 .section-item-title{
     font-weight:800px;
@@ -105,4 +107,15 @@ main{
     font-weight:400px;
     font-size: 16px;
     color: #0E0E0E;
+}
+/* section-2 */
+.section-title-2{
+    font-weight: bold;
+    font-size: 44px;
+    margin-bottom: 15px;
+}
+.section-paragraph{
+    font-weight: 400px;
+    font-size: 16px;
+    margin-bottom: 30px;
 }
