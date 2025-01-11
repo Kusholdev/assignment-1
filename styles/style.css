@@ -119,3 +119,35 @@ main{
     font-size: 16px;
     margin-bottom: 30px;
 }
+.section-items-2{
+    display: flex;
+    gap: 24px;
+    margin-bottom:32px;
+}
+.section-item-2{
+    font-weight:bold;
+    font-size: 20px;
+    color: #0E0E0E;
+    margin-bottom: 8px;
+}
+.section-item-description-2{
+    font-weight: 400px;
+    font-size: 16px;
+    color: #0E0E0E;
+}
+/* section-2 box background */
+.box-1{
+    background-color:rgba(129, 180, 252, 1);
+    border-radius: 8px;
+    padding: 30px;
+}
+.box-2{
+    background-color:rgba(60, 145, 106, 1);
+    border-radius: 8px;
+    padding: 30px;
+}
+.box-3{
+    background-color: rgba(255, 213, 93, 1);
+    border-radius: 8px;
+    padding: 30px;
+}
