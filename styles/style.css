@@ -77,3 +77,32 @@ div li{
     /* margin-top: 19px;
     margin-left: 55px; */
 }
+/* main-section-1 part */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.section-items{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 60px;
+}
+.section-item{
+    padding: 30px;
+     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border: 1px solid #D5D6D8;
+}
+.section-title-1{
+    margin-bottom: 25px;
+}
+.section-item-title{
+    font-weight:800px;
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.section-item-description{
+    font-weight:400px;
+    font-size: 16px;
+    color: #0E0E0E;
+}
