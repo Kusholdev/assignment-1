@@ -6,6 +6,9 @@
     "wdth" 100;
 }
 /* nav styles */
+ .btnn:hover{
+    color: red;
+}
 nav {
   display: flex;
   justify-content: space-between;
