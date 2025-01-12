@@ -392,6 +392,9 @@ hr{
     margin-right: 220px;
     margin-top: 32px;
 }
-.icons{
+.icons-2{
     display: flex;
-}
+    gap: 24px;
+    justify-content: center;
+    margin-bottom: 30px;
+} 
